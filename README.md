@@ -1,1 +1,1 @@
-# otus_qa_python_08_24
+# otus_qa_python_08_24 - название проекта по обучению автоматизации на python, группа: Otus. Auto-web-QA-2024-08
